@@ -1,4 +1,4 @@
-# Old Apple webpage clone
+# Calculator
 
 > Third Microverse pre-course project.
 
