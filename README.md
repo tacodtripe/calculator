@@ -1,6 +1,6 @@
 # Calculator
 
-> Third Microverse pre-course project.
+> Third Microverse JS pre-course project.
 
 ![screenshot](./app_screenshot.jpg)
 
